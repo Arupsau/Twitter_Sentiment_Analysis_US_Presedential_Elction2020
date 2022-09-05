@@ -33,8 +33,57 @@ Above portion is the main preprocessing part.Now for calculating sentiment perfo
 
 * Words that less than a length of 2 were dropped
 
-**Sentiment Analysis : **
+**Sentiment Analysis :**
 
 Sentiment analysis is used to analyze raw text to drive objective quantitative results using natural language processing, machine learning, and other data analytics techniques. It is used to detect positive or negative sentiment in text, and often businesses use it to gauge branded reputation among their customers. 
 Lexicon file is used to calculate the sentiment of each tweets.
 
+**Donald Trump**
+
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Calculate%20Emotion%20of%20Users.png">
+</p>
+<h5>The above graph describe the Emotions of Users for Donal Trump</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Count%20Of%20Tweets%20Per%20Day.png">
+</p>
+<h5>The above barplot is depicting the counts of tweets per day for Trump.The Y axis denotes the no. of tweets on the day of July 14 to July 21.</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Count%20Of%20Tweets%20Per%20Hour.png">
+</p>
+<h5>The above plot describe the No of tweets per hours on a particular day.</h5>
+
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/User%20Locations.png">
+</p>
+<h5>Shows the different locations of tweets.</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Source%20Of%20Tweets.png">
+</p>
+<h5>Source here refers to the medium used by the person to tweet, which can be Twitter Web App, Iphone, Android, ipad etc. Here we can see a major no. of user’s tweet using Web Application, followed by Iphone and the Ipad.</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Trump_SentimentOfTweetPerDay.png">
+</p>
+<h5>Given graph shows the No of tweets per day.</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Sentiments%20Of%20People%20Towards%20Trump.png">
+</p>
+<h5>This geographical map shows the sentiment of people around the country.</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/WordCloud.png">
+</p>
+<h5> Word Cloud Representation.</h5>
