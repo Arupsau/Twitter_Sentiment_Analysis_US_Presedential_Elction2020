@@ -49,41 +49,100 @@ Lexicon file is used to calculate the sentiment of each tweets.
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Count%20Of%20Tweets%20Per%20Day.png">
 </p>
-<h5>The above barplot is depicting the counts of tweets per day for Trump.The Y axis denotes the no. of tweets on the day of July 14 to July 21.</h5>
+<h5>The above barplot is depicting the counts of tweets per day for Trump.The Y axis denotes the no. of tweets on the day of July 14 to July 21</h5>
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Count%20Of%20Tweets%20Per%20Hour.png">
 </p>
-<h5>The above plot describe the No of tweets per hours on a particular day.</h5>
+<h5>The above plot describe the No of tweets per hours on a particular day</h5>
 
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/User%20Locations.png">
 </p>
-<h5>Shows the different locations of tweets.</h5>
+<h5>Shows the different locations of tweets</h5>
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Source%20Of%20Tweets.png">
 </p>
-<h5>Source here refers to the medium used by the person to tweet, which can be Twitter Web App, Iphone, Android, ipad etc. Here we can see a major no. of user’s tweet using Web Application, followed by Iphone and the Ipad.</h5>
+<h5>Source here refers to the medium used by the person to tweet, which can be Twitter Web App, Iphone, Android, ipad etc. Here we can see a major no. of user’s tweet using Web Application, followed by Iphone and the Ipad</h5>
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Trump_SentimentOfTweetPerDay.png">
 </p>
-<h5>Given graph shows the No of tweets per day.</h5>
+<h5>Given graph shows the No of tweets per day</h5>
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/Sentiments%20Of%20People%20Towards%20Trump.png">
 </p>
-<h5>This geographical map shows the sentiment of people around the country.</h5>
+<h5>This geographical map shows the sentiment of people around the country</h5>
 
 <br>
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Donald%20Trump/WordCloud.png">
 </p>
-<h5> Word Cloud Representation.</h5>
+<h5> Word Cloud Representation</h5>
+
+
+
+**Joe Biden**
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Count%20Of%20Tweets%20Per%20Day.png">
+</p>
+<h5>The above barplot is depicting the counts of tweets per day for Trump.The Y axis denotes the no. of tweets on the day of July 14 to July 21</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Count%20Of%20Tweets%20Per%20Hour.jpg">
+</p>
+<h5>The above plot describe the No of tweets per hours on a particular day</h5>
+
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/User%20Locations%20For%20People%20Tweeting%20About%20Biden.png">
+</p>
+<h5>Shows the different locations of tweets</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Source%20Of%20Tweets.png">
+</p>
+<h5>Source here refers to the medium used by the person to tweet, which can be Twitter Web App, Iphone, Android, ipad etc. Here we can see a major no. of user’s tweet using Web Application, followed by Iphone and the Ipad</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Sentiment%20Of%20Tweets%20per%20Day.png">
+</p>
+<h5>Given graph shows the No of tweets per day</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Sentiments%20Of%20People%20Towards%20Biden.png">
+</p>
+<h5>This geographical map shows the sentiment of people around the country</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/WordCloud.png">
+</p>
+<h5> Word Cloud Representation</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/Comparion%20Accuracy%20Score.png">
+</p>
+<h5>Comparison of Accuracy of Decision Tree,Random Forest and Naive Bayes for Joa Biden</h5>
+
+<br>
+<p align="center">
+<img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/DL%20Train%20and%20Validation%20Accuracy.png">
+</p>
+<h5>Deep Learning based Training and Validation acuracy graph for Joe Biden </h5>
